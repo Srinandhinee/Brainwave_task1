@@ -1,1 +1,2 @@
-# Brainwave_task1
+Brainwave Task1
+Creating a sales report
